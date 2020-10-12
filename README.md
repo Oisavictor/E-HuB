@@ -76,7 +76,7 @@ The objective of this project is to create a platorm that would help reduce the 
 
 #### **E-Hub Platform**
 
-E-Hub is an proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be creating a connection between the would be applicant or job seeker to an organisation seeking to employ them. The portal would be using a point-based index to match approprate candidates to desired jobs that they are qualified for, and for those who are not fully qualified or want to up their skills, we would also provide them with an __educational services__. For more information visit our documentations on [E-Hub.](E-Hub.txt)
+E-Hub is an proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be creating a connection between the would be applicant or job seeker to an organisation seeking to employ them. The portal would be using a point-based index to match approprate candidates to desired jobs that they are qualified for, and for those who are not fully qualified or want to up their skills, we would also provide them with an educational service. For more information visit our documentations on [E-Hub.](E-Hub.txt)
 
 <!-- Markdown links -->
 
