@@ -1,0 +1,2 @@
+# The file requirements.txt defines the image's dependencies
+Flask
