@@ -16,8 +16,8 @@ However, despite been marked as the [biggest economy][3] in Africa and the most 
 
 We would like to list some causes gotten from secondary sources that may be responsible for the increase in the unemployment rate in Nigeria. **Note**: This list is not a comprehesive one and shouldn't be deem to be all encompassing. Although we listed them out in a particular order that doesn't construed that any one has a direct correlation to unemplement rate in nigeria.
 
-|**S/No.**|**VARIABLES**|**FREQUENCY**|**PERCENTAGE**|
-|:-|:-------|-------:|--------:|
+|**`S/No.`**|**`VARIABLES`**|**`FREQUENCY`**|**`PERCENTAGE`**|
+|:-:|:-------:|:-------:|:--------:|
 |1.|Rural-Urban Mirgration| 30 | 11.1 |
 |2.|Rapid Population Growth| 20 | 7.4 |
 |3.|Corruption| 50 | 18.5 |
@@ -27,7 +27,7 @@ We would like to list some causes gotten from secondary sources that may be resp
 |7.|Lack of employable skills| 8 | 3 |
 |8.|Increase in the supply of educated manpower| 12 | 4.4 |
 |9.|Lack of adequate youth development programs| 40 | 15 |
-|  |**Total**| 270 | 100 |
+|  |**Total**|**270** | **100** |
 
 Source: [Nwanguma, et al. (2012)][5]
 
@@ -70,13 +70,13 @@ We are proposing that since "Lack of adequate youth development programs" and "u
 
 ## **AIM AND OBJECTIVES**
 
-The objective of this project is to create a platorm that would help reduce the unemployment rate in the country. This would be achieved by making a connection beteen qualified job seekers and recruiters.
+The objective of this project is to create a platorm that would help reduce the unemployment rate in the country. This would be achieved by making a connection between qualified job seekers and recruiters.
 
 ## **DESCRIPTION**
 
 #### **E-Hub Platform**
 
-E-Hub is an proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be making a connection between the would be applicant or job seeker with an organisation seeking to employ them. The portal would use point based index to match approprate candidates to desired jobs that the are qualified for and those that are not fully qulified or want to unskill then we would also provide them such services also. For more information visit our documentations on [E-Hub.](E-Hub.txt)
+E-Hub is an proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be creating a connection between the would be applicant or job seeker to an organisation seeking to employ them. The portal would be using a point-based index to match approprate candidates to desired jobs that they are qualified for, and for those who are not fully qualified or want to up their skills, we would also provide them with an __educational services__. For more information visit our documentations on [E-Hub.](E-Hub.txt)
 
 <!-- Markdown links -->
 
