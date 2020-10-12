@@ -66,7 +66,7 @@ Experienced researches in labour force or employment in Nigeria have recommended
 - Conduive Investment Climate or Enabling Environment
 - Value Re-orientation, Honesty, Dignity of labour and Hardwork
 
-We are proposing that since "Lack of adequate youth development programs" and "unemployable skills" are some problems of unemployment. While "value re-orientation and Entrepreneurial Education" are likely solutions to the above problem. We came up with an idea to develop a portal for both web and mobile that would educate and connect propective candidate to available job thereby making them more qualified and suited for any job opening while we easy the connection for the job seekers and the recruiter.
+We are proposing that since "Lack of adequate youth development programs" and "unemployable skills" are some problems of unemployment. While "value re-orientation and Entrepreneurial Education" are likely solutions to the above problem. We came up with an idea to develop a portal for both web and mobile that would educate and connect propective candidate to available jobs thereby making them more qualified and suited for any job opening; While we easy the connection for the job seekers and the recruiter.
 
 ## **AIM AND OBJECTIVES**
 
