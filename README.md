@@ -35,29 +35,29 @@ Source: [Nwanguma, et al. (2012)][5]
 
 Unemployment is not specific to Sex, Age, Race or Nationality; hence we can say that unemployment and demographic are unrelated. But for the purpose of this project we would be classifying the population into various groups namely:
 
-1. Unemployed: Persons are classified as unemployed if they do not have a job, have actively looked for work in the prior 4 weeks, and are currently available for work. Persons who were not working and were waiting to be recalled to a job from which they had been temporarily laid off are also included as unemployed.
+1. `**Unemployed:**` Persons are classified as unemployed if they do not have a job, have actively looked for work in the prior 4 weeks, and are currently available for work. Persons who were not working and were waiting to be recalled to a job from which they had been temporarily laid off are also included as unemployed.
 
-2. Underemployed: Persons are classified as underemployed if they do not work full time or takes a job that does not reflect their actual training and financial needs.
+2. **Underemployed:** Persons are classified as underemployed if they do not work full time or takes a job that does not reflect their actual training and financial needs.
 
-3. Discourage Workers: Discouraged workers are a subset of persons marginally attached to the labor force. The marginally attached are those persons not in the labor force who want and are available for work, and who have looked for a job sometime in the prior 12 months, but were not counted as unemployed.
+3. **Discourage Workers:** Discouraged workers are a subset of persons marginally attached to the labor force. The marginally attached are those persons not in the labor force who want and are available for work, and who have looked for a job sometime in the prior 12 months, but were not counted as unemployed.
 
-4. Displayed Workers: defined as persons 20 years of age and older who lost or left jobs because their plant or company closed or moved, there was insufficient work for them to do, or their position or shift was abolished.
+4. **Displayed Workers:** defined as persons 20 years of age and older who lost or left jobs because their plant or company closed or moved, there was insufficient work for them to do, or their position or shift was abolished.
 
-5. Contingent workers: Contingent workers are people who do not expect their jobs to last or who reported that their jobs are temporary. They do not have an implicit or explicit contract for continuing employment. Alternative employment arrangements include people employed as independent contractors, on-call workers, temporary help agency workers, and workers provided by contract firms.
+5. **Contingent workers:** Contingent workers are people who do not expect their jobs to last or who reported that their jobs are temporary. They do not have an implicit or explicit contract for continuing employment. Alternative employment arrangements include people employed as independent contractors, on-call workers, temporary help agency workers, and workers provided by contract firms.
 
-6. Self-employed: Person who earns a living by working for themself, not as an employee of someone else and not as an owner (shareholder) of a corporation.
+6. **Self-employed:** Person who earns a living by working for themself, not as an employee of someone else and not as an owner (shareholder) of a corporation.
 
-7. Electronically mediated employment (EME): generally defined as short jobs or tasks that workers find through mobile apps that both connect them with customers and arrange payment for the tasks.
+7. **Electronically mediated employment (EME):** generally defined as short jobs or tasks that workers find through mobile apps that both connect them with customers and arrange payment for the tasks.
 
-8. Employed: Employed persons consist of persons who did any work for pay or profit; persons who did at least 15 hours of unpaid work in a family-operated enterprise; and persons who were temporarily absent from their regular jobs because of illness, vacation, bad weather, industrial dispute, or various personal reasons. 
+8. **Employed:** Employed persons consist of persons who did any work for pay or profit; persons who did at least 15 hours of unpaid work in a family-operated enterprise; and persons who were temporarily absent from their regular jobs because of illness, vacation, bad weather, industrial dispute, or various personal reasons. 
 
-9. Not in the labour force: Persons who are neither employed nor unemployed are not in the labor force. This category includes retired persons, students, those taking care of children or other family members, and others who are neither working nor seeking work.
+9. **Not in the labour force:** Persons who are neither employed nor unemployed are not in the labor force. This category includes retired persons, students, those taking care of children or other family members, and others who are neither working nor seeking work.
 
 Source: [The Bureau of Labor Statistics (1)][6]; [The Balance Small Business (2)][7]
 
 #### 4. **Proposed Solutions to Unemployment in Nigeria**
 
-Experienced researches in issues that have to do with labour force or employment in Nigeria and they have recommended serveral solutions such as:
+Experienced researches in labour force or employment in Nigeria have recommended serveral solutions such as:
 
 - Good and competent Governance
 - Aggressive Emphasis on Entrepreneurial Education.
