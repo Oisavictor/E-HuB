@@ -1,14 +1,18 @@
 language: python
-python:
-    - 3.8.6
-caahe: flask
-
+jobs:
+    include: 
+    -   name: "3.8.6 unit Test"
+        python:'3.8.6'
+        env: docs=true
 install:
     - pip install flask
 
 script:
     - flask run
-
+    ./app.py 
+    
+cache: flask
+    
 deploy:
     provider: pages
     skip-cleanup: false
