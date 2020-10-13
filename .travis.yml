@@ -7,8 +7,7 @@ install:
     - pip install flask
 
 script:
-    - flask test
-    - flask run build
+    - flask run
 
 deploy:
     provider: pages
