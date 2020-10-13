@@ -4,7 +4,7 @@ python:
 caahe: flask
 
 install:
-    -pip install flask
+    - pip install flask
 
 script:
     - flask test
