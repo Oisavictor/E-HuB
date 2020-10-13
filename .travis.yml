@@ -1,0 +1,18 @@
+language: python
+python:
+    - 3.8.6
+caahe: flask
+
+install:
+    -sudo apt install flask
+
+script:
+    - flask test
+    - flask run build
+
+deploy:
+    provider: pages
+    skip-cleanup: false
+    github-token: $GITHUB_TOKEN
+    on:
+        branch: gh-pages
