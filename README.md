@@ -4,8 +4,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a> [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <img alt="Github license" src="https://img.shields.io/github/license/Oisavictor/E-Hub"></a>
-
-
+[![GitHub issues](https://img.shields.io/github/issues/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/network)
+[![GitHub stars](https://img.shields.io/github/stars/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/stargazers)
 
 ## **OVERVIEW**
 
