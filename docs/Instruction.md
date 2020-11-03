@@ -54,4 +54,4 @@ git push -u origin <your_branch_name>
 **9.** **Congratulations!** Sit and relax, you've made your contribution to [E-Hub](https://github.com/Oisavictor/E-Hub) project.
 
 
-* See the [Contributing Guidelines](https://github.com/indeplot/indeplot/blob/master/CONTRIBUTING.md) For more info.
+* See the [Contributing Guidelines](https://github.com/Oisavictor/E-Hub/blob/main/CONTRIBUTING.md) For more info.
