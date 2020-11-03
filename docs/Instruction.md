@@ -12,7 +12,7 @@
 
 #### If your branch is not fully updated with the develop branch please follow the below instructions before making any PR
 
->CAUTION: Synch up your local repo with [original repo](https://github.com/indeplot/indeplot) (Upstream) before pushing your commits.
+>CAUTION: Synch up your local repo with [original repo](https://github.com/Oisavictor/E-Hub.git) (Upstream) before pushing your commits.
 >This avoids unnecessary conflicts during the merge.
 
 >NOTE: You can do so by adding a [remote handler](https://www.atlassian.com/de/git/tutorials/syncing) reference to the original repo and pull the changes from the respective branch.
@@ -21,7 +21,7 @@
 
 >```bash
 >#Add upstream repo
->git remote add upstream https://github.com/indeplot/indeplot.git
+>git remote add upstream https://github.com/Oisavictor/E-Hub.git
 >
 >#Disable accidental push to the upstream
 >git remote set-url --push upstream DISABLE
@@ -51,7 +51,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [Indeplot](https://github.com/indeplot/indeplot) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [E-Hub](https://github.com/Oisavictor/E-Hub) project.
 
 
 * See the [Contributing Guidelines](https://github.com/indeplot/indeplot/blob/master/CONTRIBUTING.md) For more info.
