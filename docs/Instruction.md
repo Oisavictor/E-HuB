@@ -4,7 +4,7 @@
 - Clone your forked repository to your pc ( git clone ```'git@github.com:Oisavictor/E-Hub.git'```)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Run ```npm install``` from inside the cloned project and run ```npm start``` after the previous command execution.
-- See the issues from the https://github.com/indeplot/indeplot/issues and comment and ask for   working
+- See the issues from the https://github.com/Oisavictor/E-Hub/issues and comment and ask for   working
 - After your assigned work do the following
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request to the `develop` branch and your pull request title must contain `[dev]` keyword and your work short title
