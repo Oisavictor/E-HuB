@@ -1,0 +1,127 @@
+@import url("../css/fonts.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /*    Theme colors    */
+  --text-grey: #3f4954;
+  --text-light: #686666da;
+  --bg-color: #0f0f0f;
+  --white: #ffffff;
+  --midnight: #104f55;
+
+  /*  gradient color */
+  --sky: linear-gradient(120deg, #7c8dd4 0%, #867b7b 100%);
+
+  /*    theme font-family */
+  --Abel: "Abel", cursive;
+  --Anton: "Anton", cursive;
+  --Josefin: "Josefin", cursive;
+  --Lexend: "Lexend", cursive;
+  --Livvic: "Livvic", cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: auto;
+  /*overflow: scroll;*/
+}
+
+body {
+  background-image: url(../assets/image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+nav {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.856);
+  overflow: hidden;
+  height: 120px;
+}
+
+ul {
+  padding: 0;
+  margin: 0 0 0 150px;
+  list-style-type: none;
+}
+
+li {
+  float: right;
+  margin-top: 70px;
+  margin-right: 100px;
+}
+
+.logo img {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+  border: 4px solid rgba(32, 59, 139, 0.589);
+  border-radius: 15px;
+}
+
+nav a {
+  padding: 0px 15px;
+  text-decoration: none;
+  text-align: center;
+  font-family: var(--Lexend);
+  font-size: 1rem;
+  display: inline;
+  color: rgba(32, 59, 139, 0.9);
+}
+
+nav a:hover {
+  transition: 0.5s;
+  text-transform: uppercase;
+  border: 3px double var(--text-grey);
+  border-radius: 30px;
+}
+
+.what_we_do {
+  margin: 50px 80px;
+  padding: 15px 15px 0px 20px;
+  width: 380px;
+  height: 130px;
+  background-color: rgba(245, 222, 179, 0.853);
+  border: 1px solid rgba(245, 222, 179, 0.753);
+  border-radius: 35px;
+}
+
+.value {
+  margin: 20px 80px;
+  padding: 15px 15px 0px 20px;
+  width: 380px;
+  height: 400px;
+  background-color: rgba(245, 222, 179, 0.853);
+  border: 1px solid rgba(245, 222, 179, 0.753);
+  border-radius: 35px;
+}
+
+h3 {
+  text-align: center;
+  color: rgba(32, 59, 139);
+  font: 1.2rem sans-serif;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  color: #1a1818;
+  text-shadow: white;
+}
+
+footer {
+  width: 100%;
+  height: 30px;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+}
