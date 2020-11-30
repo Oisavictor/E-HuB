@@ -19,7 +19,7 @@ Over the years, Nigeria has been seen to be battling with a steady increase in t
 
 This upward trend seems to be never-ending and currently, in the second quarter of 2020 the unemployment rate stood at 27.1% which indicates that about [21,764,614][2] (21.7 million) Nigerians remain unemployed. Even though, the federal government had put so many policies in place in the past to checkmate these rise in the unemployment rates none has seem to be yeilding the desired result.
 
-However, despite been marked as the [biggest economy][3] in Africa and the most populous Black nation in the world, with a current population of about 207 million [(207,627,725)][4] people and a yearly change of [2.58 percent][4] as __at the time of this publication__. One wouldn't help but wonder if her ever-growing population may be the **"SOLE"** cause of her's high and continuous growth of unemployment rate that plagues her.
+However, despite been marked as the [biggest economy][3] in Africa and the most populous Black nation in the world, with a current population of about 207 million [(207,627,725)][4] people and a yearly change of [2.58 percent][4] as **at the time of this publication**. One wouldn't help but wonder if her ever-growing population may be the **"SOLE"** cause of her's high and continuous growth of unemployment rate that plagues her.
 
 ### 2. **Causes of Unemployement in Nigeria**
 
@@ -85,7 +85,7 @@ We came up with an idea to develop a portal for both web and mobile that would e
 
 ## **AIM**
 
-The Aim is to create a platorm that would help reduce the unemployment rate in the country and africa at large. 
+The Aim is to create a platorm that would help reduce the unemployment rate in the country and africa at large.
 
 ## **OBJECTIVES**
 
@@ -95,7 +95,7 @@ The objective of this project is to make a connection between qualified job seek
 
 ### **E-Hub Platform**
 
-E-Hub is a proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be creating a connection between the would be applicant or job seeker to an organisation seeking to employ them. The portal would be using a point-based index to match approprate candidates to desired jobs that they are qualified for, and for those who are not fully qualified or want to up their skills, we would also provide them with an educational service. For more information visit our documentations on [E-Hub.](#)
+E-Hub is a proposed employment platform that seeks to help the unemployed and/or the underemployed gain their rightful jobs in Nigeria. For clearity, we would be creating a connection between the would be applicant or job seeker to an organisation seeking to employ them. The portal would be using a point-based index to match approprate candidates to desired jobs that they are qualified for, and for those who are not fully qualified or want to up their skills, we would also provide them with an educational service. For more information visit our documentations on [E-HuB.](#)
 
 <!-- Markdown links -->
 
