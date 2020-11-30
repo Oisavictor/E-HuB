@@ -1,4 +1,4 @@
-# **EMPLOYMENT HUB**
+# **EMPLOYMENT HUB (E-HuB)**
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -44,7 +44,7 @@ Source: [Nwanguma, et al. (2012)][5]
 
 Unemployment is not specific to Sex, Age, Race or Nationality, hence we can say that unemployment and demographic are unrelated.
 
-For the purpose of this project we would be definining some keywords as it relates to population into various groups namely:
+For the purpose of this project we would be definining some keywords as it relates to population namely:
 
 1. **`Unemployed:`** Persons are classified as unemployed if they do not have a job, have actively looked for work in the prior 4 weeks, and are currently available for work. Persons who were not working and were waiting to be recalled to a job from which they had been temporarily laid off are also included as unemployed.
 
