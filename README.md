@@ -89,7 +89,7 @@ The Aim is to create a platorm that would help reduce the unemployment rate in t
 
 ## **OBJECTIVES**
 
-The objective of this project is to make a connection between qualified job seekers and recruiters by leveraging on our core values which is to attract, develop, enhance and retain. This would help us create a dynamic workforce ready for varoius job openings in the economy thereby reducing the unemployment rate.
+The objective of this project is to make a connection between qualified job seekers and recruiters by leveraging on our core values which is to **attract, develop, enhance and retain.** This would help us create a dynamic workforce ready for varoius job openings in the economy thereby reducing the unemployment rate.
 
 ## **DESCRIPTION**
 
