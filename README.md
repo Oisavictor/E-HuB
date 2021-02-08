@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/network)
 [![GitHub stars](https://img.shields.io/github/stars/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/stargazers)
 [![Build Status](https://travis-ci.com/Oisavictor/E-Hub.svg?branch=main)](https://travis-ci.com/Oisavictor/E-Hub)
-
+![Visitor Count](https://profile-counter.glitch.me/Oisavictor/count.svg)
 ## **OVERVIEW**
 
 ### 1. **Problem Statement**
@@ -106,4 +106,3 @@ E-Hub is a proposed employment platform that seeks to help the unemployed and/or
 [5]: https://journal-archieves23.webs.com/1125-1141.pdf "Table"
 [6]: https://www.bls.gov/cps/lfcharacteristics.htm#unemp "bls"
 [7]: https://www.thebalancesmb.com/what-does-it-mean-to-be-self-employed-398471 "balance"
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
