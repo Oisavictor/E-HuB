@@ -13,7 +13,7 @@
 
 ### 1. **Problem Statement**
 
-Over the years, Nigeria has been seen to be battling with a steady increase in the number of unemployment cases in the country.
+Over the years, Nigeria has been seen to be battling with a steady increase in the number of unemployment cases in the country. Unemployability has made Nigeria youth taged as "Lazy".
 
 > **“With almost a steady rise from about 4.3 percent in 1970 to 6.4 percent in 1980, This fluctuated around 6.0 per cent until 1987 when it rose to 7.0 per cent, Structural Adjustment Program was brought in place by the Federal Government of Nigeria in 1986 to tackle unemployment challenge. This was a bit effective as unemployment rate declined from 7.0 per cent in 1987, to as low as 1.9 per cent in 1995. After this, it rose to 2.8 per cent in 1996, and has been growing worse since, hovering between 2.8 and 13.1 per cent between 1996 and 2000"** [Adekola, et al. (2016).][1]
 
