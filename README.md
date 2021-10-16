@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/network)
 [![GitHub stars](https://img.shields.io/github/stars/Oisavictor/E-Hub?style=plastic)](https://github.com/Oisavictor/E-Hub/stargazers)
 [![Build Status](https://travis-ci.com/Oisavictor/E-Hub.svg?branch=main)](https://travis-ci.com/Oisavictor/E-Hub)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51b402f5-e8e3-4561-8f72-deff9d539d2b/deploy-status)](https://app.netlify.com/sites/wizardly-hoover-eef3d6/deploys)
 ## **OVERVIEW**
 
 ### 1. **Problem Statement**
