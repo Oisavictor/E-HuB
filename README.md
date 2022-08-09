@@ -107,3 +107,9 @@ E-Hub is a proposed employment platform that seeks to help the unemployed and/or
 [6]: https://www.bls.gov/cps/lfcharacteristics.htm#unemp "bls"
 [7]: https://www.thebalancesmb.com/what-does-it-mean-to-be-self-employed-398471 "balance"
 ![Visitor Count](https://profile-counter.glitch.me/Oisavictor/count.svg)
+
+<a href="https://github.com/zuri-training/CC-Generator-Team127/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zuri-training/CC-Generator-Team127" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
